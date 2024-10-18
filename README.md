@@ -50,4 +50,4 @@ A horizontally scrolling marquee that reacts to user scroll input.
 ![image](https://github.com/user-attachments/assets/70172f50-4669-4895-a8d5-b3d9ea45fd48)
 
 ## 🔗 Live Demo
-To see the website in action, check out the .
+To see the website in action, check out the here https://jahidulislam69.github.io/cynth/
